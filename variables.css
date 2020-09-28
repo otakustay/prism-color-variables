@@ -1,4 +1,4 @@
-.token.comment
+.token.comment,
 .token.block-comment {
     color: var(--code-highlight-comment-color, #708090);
 }
